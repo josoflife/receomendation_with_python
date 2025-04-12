@@ -48,6 +48,15 @@ def on_type(data):
 movie_input.observe( on_type, names = 'value')
 
 display(movie_input, movie_list)
+##below are the cells from google colab
+# https://colab.research.google.com/drive/1qdtSOe6t1JsFahRmnzLS6Ep2caZz5N1N#scrollTo=L4rz_uCv0Z1b&line=1&uniqifier=1
+# https://colab.research.google.com/drive/1qdtSOe6t1JsFahRmnzLS6Ep2caZz5N1N#scrollTo=wOTO1aaHMJ3o&line=1&uniqifier=1
+# https://colab.research.google.com/drive/1qdtSOe6t1JsFahRmnzLS6Ep2caZz5N1N#scrollTo=vZ6QJ0DmMqAp&line=1&uniqifier=1
+# https://colab.research.google.com/drive/1qdtSOe6t1JsFahRmnzLS6Ep2caZz5N1N#scrollTo=UiUhejkAM4PH&line=1&uniqifier=1
+# https://colab.research.google.com/drive/1qdtSOe6t1JsFahRmnzLS6Ep2caZz5N1N#scrollTo=JYLH70ll2WO6&line=1&uniqifier=1
+# https://colab.research.google.com/drive/1qdtSOe6t1JsFahRmnzLS6Ep2caZz5N1N#scrollTo=pFaqmcTN6ufE&line=1&uniqifier=1
+# https://colab.research.google.com/drive/1qdtSOe6t1JsFahRmnzLS6Ep2caZz5N1N#scrollTo=g4OP6l_D9_ZE&line=1&uniqifier=1
+
 
 
 
